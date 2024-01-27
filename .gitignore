@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
 
+my-app/node_modules/
+
 # Log file
 *.log
 
